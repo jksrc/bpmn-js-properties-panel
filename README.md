@@ -1,4 +1,4 @@
-# xbpmn-js-properties-panel
+# xxbpmn-js-properties-panel
 
 [![Build Status](https://travis-ci.org/bpmn-io/bpmn-js-properties-panel.svg?branch=master)](https://travis-ci.org/bpmn-io/bpmn-js-properties-panel)
 
